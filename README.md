@@ -1,2 +1,3 @@
 # tsql-
-fix the wait stats
+
+This repository contains T-SQL and PowerShell scripts used for real-world SQL Server troubl
